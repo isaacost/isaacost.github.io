@@ -1,0 +1,65 @@
+body {
+    color: #C65D7B;
+    background: #F6E7D8 url(Imagem/background.jpg);
+    font-family: Inconsolata;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+header {
+    background: url(Imagem/background.jpg);
+    width: auto;
+    height: 650px;
+    text-align: center;
+    padding-top: 150px;
+    
+}
+h4 {
+    color: #874356;
+    text-align: center;
+    text-decoration: underline;
+}
+
+nav {
+    background: #F6E7D8;
+    text-align: right;
+    text-decoration: none;
+}
+
+
+#nome {
+    color: #874356;
+    font-size: 50px;
+    font-weight: bold;
+}
+#estudante {
+   
+    color: #C65D7B;
+    font-size: 20px;
+}
+
+
+#foto {
+    height: 300px;
+    width: 300px;
+    /*border: 1px solid red;*/
+    border-radius: 50%;   
+}
+#sobre-mim {
+    background: #F6E7D8;
+}
+
+
+.link {
+    text-decoration: none;
+}
+.link:hover {
+    font-weight: 700;
+
+}
+
+.habilidades {
+    text-align: left;
+}
