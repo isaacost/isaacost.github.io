@@ -53,9 +53,11 @@ nav {
 
 
 .link {
+    color: #C65D7B;
     text-decoration: none;
 }
 .link:hover {
+    color: #874356;
     font-weight: 700;
 
 }
